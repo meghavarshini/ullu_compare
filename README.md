@@ -1,1 +1,1 @@
-This repository stores two .wav files with the Hindi word 'ul̄ū, one produced by an American English speaker and another by a native Hindi speaker. This highlights the difference in consonant length in both utterences.
+This repository stores two .wav files with the Hindi word ul̄ū, one produced by an American English speaker and another by a native Hindi speaker. This highlights the difference in consonant length in both utterences.
